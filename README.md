@@ -12,10 +12,10 @@
 
   Hardware
   <br>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
   <br>
   
   Tools
