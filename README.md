@@ -1,28 +1,21 @@
 ### Hi there 👋 
-# Introduce
 
+# Tech Stack
+## Programming Language
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-## Tech Stack
+## Hardware
+- <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 
-<p align="center"> Programming Language </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-</p>
-<p align="center"> Hardware </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
-</p>
-<p align="center"> Tools </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/STM32CubeMonitor-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
-</p>
+## Tools
+- <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/STM32CubeMonitor-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
 
 ## Education
   - <img src="https://img.shields.io/badge/STM32 Drone Control System-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a><br>
@@ -42,6 +35,7 @@
 - Wall Crack Check Robot (2022.03 ~ )
 - Connected Car based on CAN Communication (2022.07 ~ )
 - ROS2 Auto Driving System (2022.08 ~ )
+
 
 <!--
 **ahystroy/ahystroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
