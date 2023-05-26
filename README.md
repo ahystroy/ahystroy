@@ -25,7 +25,6 @@ Interested in...
 ### Tools
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/STM32CubeMonitor-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><br>
   IAR Embedded Workbench, OrCAD, PADS, MobaXterm, VSCode
 
 ## Education
