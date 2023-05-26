@@ -3,7 +3,7 @@ Hoyeon An
 <br>
 2000.09.23
 <br>
-Tech University of Korea Mechatronics
+Tech University of Korea, Mechatronics
 <br>
 Interested in...
 - Firmware
